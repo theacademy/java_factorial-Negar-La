@@ -40,7 +40,7 @@ public class Factorial {
 
 		 } catch(NumberFormatException ex) {
 			 // Think of this kind of like an 'else' block for now. This is the code that will run
-			 // if the user doesn't enter an integer number.
+			 // if the user doesn't enter an integer number!
 		 }
 
 			 if (num >= 1 && num <= 10) {
